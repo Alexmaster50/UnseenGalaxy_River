@@ -2,6 +2,8 @@
 ## Le Petit Chaperon Rouge - River
 
 Developed with Unreal Engine 5, during the Game Academy - Ascento Bootcamp
+<img src="https://i.imgur.com/kIby2qs.png" style="width:500px">
+
 
 
 ### Basic Info:
